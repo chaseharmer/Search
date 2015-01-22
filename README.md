@@ -1,3 +1,4 @@
+```
 Programming Problem ­ Search
 Instructions
 Solve the problem described below using ONLY Ruby Langauge. The objective of the problem
@@ -89,3 +90,4 @@ Q5: P1 P3 P6 P2 P4
 Q6:
 End of problem
 
+```
